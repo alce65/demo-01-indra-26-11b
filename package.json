@@ -7,6 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "lint": "echo \"Error: no lint specified\" && exit 1",
     "test:bad": "echo \"Error: no test specified\" && exit 1",
     "test": "echo \"Success test\" && exit 0",
     "prepare": "husky"
